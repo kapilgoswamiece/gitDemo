@@ -13,10 +13,10 @@ public class Test1 {
 		
 		
 		ArrayList <String> names =  new ArrayList<String>();
-		names.add("Kapil");
+		//names.add("Kapil");
 		names.add("Rahul");
 		names.add("Rohit");
-		names.add("Rakshit");
+		//names.add("Rakshit");
 		names.add("Roshan");
 		names.add("Aman");
 		names.add("Arun");
@@ -25,7 +25,7 @@ public class Test1 {
 		ArrayList <String> name1 =  new ArrayList<String>();
 		name1.add("Goswami");
 		name1.add("Giri");
-		name1.add("Puri");
+		//name1.add("Puri");
 		name1.add("Bharti");
 		name1.add("Gosai");
 		name1.add("Ban");
